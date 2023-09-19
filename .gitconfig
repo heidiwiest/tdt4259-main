@@ -1,0 +1,2 @@
+[diff "jupyter"]
+    textconv = "jupyter nbconvert --to script --stdout"
