@@ -1,0 +1,29 @@
+Neighbourhood cleansed er lokalt nabolag
+Neighbourhood group er større geografisk område (Hells Kitchen vs. Manhatten for eksempel)
+
+amenities er liste med alt som tilbys under oppholdet av tjenester og funksjonaliteter
+
+review_scores_accuracy  - hvor nøyaktig var annonsen        
+review_scores_cleanliness   - hvor rent var det       
+review_scores_checkin  - hvordan var det å sjekke inn
+review_scores_communication  - hvor godt kommuniserte hosten
+review_scores_location     - god beliggenhet?    
+review_scores_value   - får man mye for pengene?
+
+
+instant_bookable - kan gjester booke seg inn uten forhåndsgodkjenning fra verten? 
+gjør at airbnb promoterer deg mer og fører til flere gjester som regel. til gjengjeld
+risikerer man å få litt lavere kvalitet på leietakere.
+
+
+## Usikkert ##
+Host listings count vs host total listings count (aktive vs. totalt antall annonser?)
+calculated_host_listings_count??
+
+Er availability_30, 90, 365 for foregående periode eller fremtiden?
+
+
+
+Usikker på minimum_maximum_nights, maximum_minimum_nights, minimum_minimum_nights, maximum_maximum_nights 
+and minimum_nights_avg_ntm & maximum_nights_avg_ntm
+
